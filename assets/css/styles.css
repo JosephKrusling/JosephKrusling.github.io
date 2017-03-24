@@ -23,7 +23,7 @@ h5,
 h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  color: #778492;
+  color: #3a6292;
 }
 a {
   color: #3AAA64;
@@ -34,7 +34,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #5f6b77;
+  color: #2b496d;
   color: #2d844e;
 }
 a:focus {
@@ -87,19 +87,19 @@ a.btn-cta-secondary:hover,
   color: #fff;
 }
 .text-highlight {
-  color: #32383e;
+  color: #0e1824;
 }
 .label-theme {
   background: #3AAA64;
   font-size: 12px;
 }
 a.dotted-link {
-  border-bottom: 1px dotted #778492;
-  color: #778492;
+  border-bottom: 1px dotted #3a6292;
+  color: #3a6292;
 }
 a.dotted-link:hover {
   text-decoration: none;
-  color: #49515a;
+  color: #1d3149;
 }
 /*
 iframe {
@@ -118,7 +118,7 @@ iframe {
 .header {
   padding: 30px 0;
   background: #f5f5f5;
-  border-top: 10px solid #778492;
+  border-top: 10px solid #3a6292;
 }
 .header .btn {
   margin-top: 60px;
@@ -129,13 +129,13 @@ iframe {
   border-radius: 50%;
 }
 .header .profile-content .name {
-  color: #49515a;
+  color: #1d3149;
   font-size: 38px;
   margin-bottom: 5px;
   margin-top: 30px;
 }
 .header .profile-content .desc {
-  color: #778492;
+  color: #3a6292;
   font-family: "Lato", arial, sans-serif;
   font-weight: 400;
   font-size: 24px;
@@ -143,7 +143,7 @@ iframe {
   margin-bottom: 15px;
 }
 .header .profile-content .social a {
-  background: #b0b7bf;
+  background: #6d95c5;
   width: 36px;
   height: 36px;
   display: inline-block;
@@ -159,7 +159,7 @@ iframe {
   text-align: center;
 }
 .header .profile-content .social a:hover {
-  background: #778492;
+  background: #3a6292;
 }
 .header .profile-content .social a .fa {
   font-size: 20px;
@@ -180,7 +180,7 @@ iframe {
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
-  color: #545e69;
+  color: #243d5b;
   font-size: 24px;
 }
 .section .content .more-link .fa {
@@ -201,10 +201,10 @@ iframe {
   font-size: 12px;
 }
 .latest .item .title a {
-  color: #778492;
+  color: #3a6292;
 }
 .latest .item .title a:hover {
-  color: #5f6b77;
+  color: #2b496d;
 }
 .latest .item .project-image:hover {
   -webkit-opacity: 0.8;
@@ -218,12 +218,12 @@ iframe {
   margin-bottom: 60px;
 }
 .latest .featured .title {
-  margin-bottom: 5px;
   font-size: 20px;
+  margin-bottom: 5px;
 }
 .latest .featured .summary {
   margin-bottom: 30px;
-  color: #778492;
+  color: #3a6292;
 }
 .latest .featured img {
   margin-bottom: 30px;
@@ -290,10 +290,10 @@ iframe {
   line-height: 1.5;
 }
 .projects .item .title a {
-  color: #778492;
+  color: #3a6292;
 }
 .projects .item .title a:hover {
-  color: #5f6b77;
+  color: #2b496d;
 }
 /* Work Section */
 .experience .item {
@@ -340,7 +340,7 @@ iframe {
 /* Info Section */
 .info .fa {
   margin-right: 15px;
-  color: #ccd1d6;
+  color: #92afd3;
 }
 .info .fa.fa-envelope-o {
   font-size: 14px;
@@ -365,10 +365,9 @@ iframe {
   font-size: 16px;
   position: relative;
   margin-top: 0;
-  margin-bottom: 10;
 }
 .skills .skillset .level-title .level-label {
-  color: #ccd1d6;
+  color: #92afd3;
   font-size: 14px;
   font-weight: 400;
   font-family: "Lato", arial, sans-serif;
@@ -407,7 +406,7 @@ iframe {
   font-weight: 500;
 }
 .testimonials .item .source .name {
-  color: #939ea9;
+  color: #497ab7;
   font-weight: 600;
 }
 .testimonials .item .source .title {
@@ -432,7 +431,7 @@ iframe {
   padding-left: 25px;
 }
 .education .item .university .year {
-  color: #b0b7bf;
+  color: #6d95c5;
   font-weight: 500;
 }
 /* Language Section */
@@ -440,7 +439,7 @@ iframe {
   margin-bottom: 15px;
 }
 .languages .item .title {
-  color: #778492;
+  color: #3a6292;
 }
 .languages .item .level {
   color: #999;
@@ -460,10 +459,10 @@ iframe {
   line-height: 1.3;
 }
 .blog .item .title a {
-  color: #778492;
+  color: #3a6292;
 }
 .blog .item .title a:hover {
-  color: #5f6b77;
+  color: #2b496d;
 }
 .blog .item:last-child {
   margin-bottom: 0;
@@ -476,10 +475,10 @@ iframe {
   margin-right: 5px;
 }
 .list ul li a {
-  color: #778492;
+  color: #3a6292;
 }
 .list ul li a:hover {
-  color: #49515a;
+  color: #1d3149;
 }
 /* Credits */
 .credits ul li {
@@ -489,23 +488,23 @@ iframe {
   margin-right: 5px;
 }
 .credits ul li a {
-  color: #778492;
+  color: #3a6292;
 }
 .credits ul li a:hover {
-  color: #49515a;
+  color: #1d3149;
 }
 .credits .btn {
   margin-bottom: 15px;
 }
 /* ======= Footer ======= */
 .footer {
-  background: #32383e;
+  background: #0e1824;
   color: #fff;
   padding: 10px 0;
 }
 .footer .copyright {
   line-height: 1.6;
-  color: #a1aab4;
+  color: #5b88be;
   font-size: 14px;
 }
 .footer a {
