@@ -26,7 +26,7 @@ h6 {
   color: #3a6292;
 }
 a {
-  color: #3AAA64;
+  color: #41aa96;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -35,7 +35,7 @@ a {
 a:hover {
   text-decoration: underline;
   color: #2b496d;
-  color: #2d844e;
+  color: #338575;
 }
 a:focus {
   text-decoration: none;
@@ -90,7 +90,7 @@ a.btn-cta-secondary:hover,
   color: #0e1824;
 }
 .label-theme {
-  background: #3AAA64;
+  background: #41aa96;
   font-size: 12px;
 }
 a.dotted-link {
@@ -235,7 +235,7 @@ iframe {
   position: relative;
 }
 .latest .featured-image .text {
-  background: #3AAA64;
+  background: #41aa96;
   color: #fff;
 }
 .latest .featured-image .ribbon {
@@ -381,7 +381,7 @@ iframe {
 }
 .skills .skillset .level-bar-inner {
   height: 15px;
-  background: #66cb8c;
+  background: #6fc8b7;
 }
 /* Testimonials section */
 .testimonials .item {
@@ -393,11 +393,11 @@ iframe {
 .testimonials .item .quote {
   color: #666;
   font-size: 16px;
-  border-left-color: #9fdeb7;
+  border-left-color: #a7ddd3;
   margin-bottom: 15px;
 }
 .testimonials .item .quote .fa {
-  color: #79d19a;
+  color: #82cfc0;
   margin-right: 15px;
 }
 .testimonials .item .source {
@@ -448,7 +448,7 @@ iframe {
   margin-bottom: 0;
 }
 .languages .item .fa {
-  color: #79d19a;
+  color: #82cfc0;
 }
 /* Blog Section */
 .blog .item {
