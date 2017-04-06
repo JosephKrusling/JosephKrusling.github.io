@@ -357,35 +357,6 @@ iframe {
 .info li:last-child {
   margin-bottom: 0;
 }
-/* Skills Section */
-.skills .intro {
-  margin-bottom: 30px;
-}
-.skills .skillset .item {
-  margin-bottom: 30px;
-}
-.skills .skillset .level-title {
-  font-size: 16px;
-  position: relative;
-  margin-top: 0;
-}
-.skills .skillset .level-title .level-label {
-  color: #92afd3;
-  font-size: 14px;
-  font-weight: 400;
-  font-family: "Lato", arial, sans-serif;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-.skills .skillset .level-bar {
-  height: 15px;
-  background: #e8e8e8;
-}
-.skills .skillset .level-bar-inner {
-  height: 15px;
-  background: #6fc8b7;
-}
 /* Testimonials section */
 .testimonials .item {
   margin-bottom: 30px;
@@ -429,8 +400,8 @@ iframe {
 .education .item .university {
   font-family: "Lato", arial, sans-serif;
   font-size: 13px;
-  color: #999;
-  font-weight: 600;
+  color: #333333;
+  font-weight: 500;
   padding-left: 25px;
 }
 .education .item .university .year {
@@ -438,6 +409,32 @@ iframe {
   font-weight: 500;
 }
 .education .co-op {
+  color: #6d95c5;
+  font-weight: 500;
+}
+/* Skills */
+.skills .item {
+  margin-bottom: 30px;
+}
+.skills .item:last-child {
+  margin-bottom: 0;
+}
+.skills .item .title {
+  font-size: 16px;
+  margin-top: 0;
+}
+.skills .item .skill-group {
+  font-family: "Lato", arial, sans-serif;
+  font-size: 13px;
+  color: #666;
+  font-weight: 500;
+  padding-left: 25px;
+}
+.skills .item .skill-group .skill-tag {
+  color: #333333;
+  font-weight: 800;
+}
+.skills .co-op {
   color: #6d95c5;
   font-weight: 500;
 }
